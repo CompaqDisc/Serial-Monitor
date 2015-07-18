@@ -1,0 +1,14 @@
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.pdb
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.xml
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial_Monitor.SerialMonitorApp.resources
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial_Monitor.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.exe
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.xml
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.pdb
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe.manifest
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.application
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.exe.manifest
+c:\users\owner\documents\visual studio 2013\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.application
